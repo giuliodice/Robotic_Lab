@@ -1,0 +1,7 @@
+float32 init_pos
+float32 fin_pos
+float32 max_vel
+---
+float32 final_position
+---
+float32 curr_pos
